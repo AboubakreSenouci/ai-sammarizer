@@ -1,2 +1,4 @@
-# ai-sammarizer
-react ai-summarizer-app with chatgpt
+
+
+react ai-summarizer-app by Aboubakre Senouci
+
