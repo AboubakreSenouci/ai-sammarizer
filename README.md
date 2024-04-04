@@ -1,2 +1,2 @@
 # ai-sammarizer
-react ai-summarizer-app
+react ai-summarizer-app with chatgpt
